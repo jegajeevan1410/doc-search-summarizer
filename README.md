@@ -4,6 +4,8 @@ Search about 2,000 BBC news articles with a question or topic and get a short, c
 
 The system combines **keyword search (BM25)** with **meaning-based search (sentence embeddings)**, merges them with **Reciprocal Rank Fusion**, and uses an **LLM (via Groq)** to summarize the top results. A **Streamlit** web app provides the interface.
 
+**Live demo:** https://bbc-news-summarizer.streamlit.app
+
 > The full methodology, evaluation and challenges are in the project report.
 
 ---
