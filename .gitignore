@@ -1,0 +1,11 @@
+# secrets
+.env
+
+# environment and cache
+venv/
+__pycache__/
+
+# large or downloadable data
+data/BBC News Summary/
+data/bbc_clean.csv
+data/embeddings.npy

@@ -1,0 +1,8 @@
+pandas
+numpy
+rank_bm25
+sentence-transformers
+groq
+python-dotenv
+rouge-score
+streamlit>=1.45
